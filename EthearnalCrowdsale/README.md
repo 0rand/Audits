@@ -10,3 +10,5 @@
 
 
 This repository contains line-by-line commented code, created during an audit of the Ethearnal crowdsale contracts. The full report of the audit can be found here: https://www.authio.org/post/ethearnal-crowdsale-audit
+
+Please note that this code has not been, and will not be, updated to reflect the current state of the Ethearnal crowdsale code, or Authio's notes on their code. The best place to stay updated on the latest updates is our official report, linked above, or the Ethearnal website: www.ethearnal.com
